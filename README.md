@@ -15,6 +15,6 @@ Top Performing State: California </br>
 Most Popular category: Phones </br>
 
 # Repository Structure
-Data: Contains the sample DataSet </br>
+Data:< a href "https://github.com/Vandangowda9/PowerBI-DashBoard-Sales-Analysis-Project/blob/main/Dataset.xlsx"</a>
 PowerBI: PowerBI file(.pbix) of the project </br>
 Images: Contains screenshots of the DashBoard for easy preview
