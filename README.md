@@ -7,7 +7,7 @@ Power BI project provides a comprehensive analysis of sales data, offering valua
 
 # Project Highlights
 Metrics           Value </br>
-Total Sales       2M
+Total Sales       2M </br>
 Monthly Trends    332K </br>
 Sales by Category 836K </br>
 Avg.Delivery      4 </br>
