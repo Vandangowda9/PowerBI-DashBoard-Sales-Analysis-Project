@@ -11,3 +11,5 @@ Total Sales:2M </br>
 Monthly Trends:332K </br>
 Sales by Category:836K </br>
 Avg.Delivery:4 </br>
+Top Performing State:California </br>
+Most Popular category:Phones </br>
