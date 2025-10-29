@@ -7,9 +7,14 @@ Power BI project provides a comprehensive analysis of sales data, offering valua
 
 # Project Highlights
 Metrics: Value </br>
-Total Sales:2M </br>
-Monthly Trends:332K </br>
-Sales by Category:836K </br>
-Avg.Delivery:4 </br>
-Top Performing State:California </br>
-Most Popular category:Phones </br>
+Total Sales: 2M </br>
+Monthly Trends: 332K </br>
+Sales by Category: 836K </br>
+Avg.Delivery: 4 </br>
+Top Performing State: California </br>
+Most Popular category: Phones </br>
+
+# Repository Structure
+Data: Contains the sample DataSet </br>
+PowerBI: PowerBI file(.pbix) of the project </br>
+Images: Contains screenshots of the DashBoard for easy preview
