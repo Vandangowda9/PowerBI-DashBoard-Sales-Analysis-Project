@@ -17,5 +17,7 @@ Most Popular category: Phones </br>
 # Repository Structure
 Data:"https://github.com/Vandangowda9/PowerBI-DashBoard-Sales-Analysis-Project/blob/main/Dataset.xlsx"</br>
 PowerBI: "https://github.com/Vandangowda9/PowerBI-DashBoard-Sales-Analysis-Project/blob/main/Sales%20Analysis.pbix"</br>
-Sales DashBoard Images: <img width="1327" height="745" alt="SalesDashBoard Image" src="https://github.com/user-attachments/assets/c2e5eb31-27d3-42d7-8438-eb45080b87ea" />
+Sales DashBoard Image: <img width="1327" height="745" alt="SalesDashBoard Image" src="https://github.com/user-attachments/assets/c2e5eb31-27d3-42d7-8438-eb45080b87ea" /></br>
+Sales Forecast Image: <img width="1326" height="744" alt="Sales Forecast Image" src="https://github.com/user-attachments/assets/8cb8c749-0360-4c5a-80ae-6588cd8e4513" />
+
 
