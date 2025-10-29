@@ -4,3 +4,10 @@ Power BI project provides a comprehensive analysis of sales data, offering valua
 # Insights and Findings
 •	The analysis showed that total sales increased compared to the previous period, showing steady business growth. </br>
 •	The Phones and Chairs categories made the highest sales, contributing most to total revenue. 
+
+# Project Highlights
+Metrics           Value </br>
+Total Sales       2M
+Monthly Trends    332K </br>
+Sales by Category 836K </br>
+Avg.Delivery      4 </br>
