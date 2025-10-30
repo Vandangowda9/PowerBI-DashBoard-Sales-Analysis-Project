@@ -35,4 +35,10 @@ Most Popular category: Phones </br>
 ## Sales Forecast Image:
 <img width="1326" height="744" alt="Sales Forecast Image" src="https://github.com/user-attachments/assets/8cb8c749-0360-4c5a-80ae-6588cd8e4513" />
 
+# Next Steps/Recommendations
+•	Focus marketing efforts on top-performing product categories.</br>
+•	Optimize inventory for peak months.</br>
+•	Develop targeted promotions in underperforming regions.</br>
+•	Continue monitoring sales trends in Power BI for real-time decision-making.</br>
+•	Integrate customer demographics for deeper segmentation analysis.
 
