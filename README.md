@@ -1,5 +1,5 @@
 # PowerBI-DashBoard-Sales-Analysis-Project
-Power BI project provides a comprehensive analysis of sales data, offering valuable insights into sales performance, profit distribution and customer behaviour across different categories, sub-categories and etc.The dashboard highlights key metrics, trends and comparisons making it a power tool for strategic decision-making.  
+I developed a comprehensive project in PowerBI, creating multiple dashboard and tables to analyze data.This process involved several stage, include data cleaning, data preprocessing and data visualization.
 
 # Insights and Findings
 •	The analysis showed that total sales increased compared to the previous period, showing steady business growth. </br>
@@ -43,3 +43,4 @@ Most Popular category: Phones </br>
 •	Continue monitoring sales trends in Power BI for real-time decision-making.</br>
 •	Integrate customer demographics for deeper segmentation analysis.
 
+#
