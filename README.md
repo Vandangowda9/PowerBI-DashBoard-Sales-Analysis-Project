@@ -4,6 +4,11 @@ Power BI project provides a comprehensive analysis of sales data, offering valua
 # Insights and Findings
 •	The analysis showed that total sales increased compared to the previous period, showing steady business growth. </br>
 •	The Phones and Chairs categories made the highest sales, contributing most to total revenue. 
+•	State wise quantity analysis to identify top performing region.
+•	A donut chart displaying the sales share of each segment and region.
+•	Detailed clustered bar chart analysis of category, sub-category and ship mode sales, Highlighting top sales. 
+
+
 
 # Project Highlights
 Metrics: Value </br>
