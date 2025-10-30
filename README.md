@@ -6,7 +6,8 @@ Power BI project provides a comprehensive analysis of sales data, offering valua
 •	The Phones and Chairs categories made the highest sales, contributing most to total revenue.</br> 
 •	State wise quantity analysis to identify top performing region.</br>
 •	A donut chart displaying the sales share of each segment and region.</br>
-•	Detailed clustered bar chart analysis of category, sub-category and ship mode sales, Highlighting top sales. 
+•	Detailed clustered bar chart analysis of category, sub-category and ship mode sales, Highlighting top sales.</br>
+•	A KPI in Power BI visually tracks progress toward a specific business goal by comparing actual performance against a defined target.
 
 # Why This Project Stands Out
 ## Visually Engaging:
