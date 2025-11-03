@@ -11,7 +11,7 @@ I developed a comprehensive project in PowerBI, creating multiple dashboard and 
 
 # Why This Project Stands Out
 ## Visually Engaging:
-The DashBoard feauture a combination of diverse visu;izations, including bar charts, line charts, donut charts and map creating an interactive insightful analysis.</br>
+The DashBoard feauture a combination of diverse visulizations, including bar charts, line charts, donut charts and map creating an interactive insightful analysis.</br>
 ## Business-Driven Insights: 
 Each visual is designed to answer specific business questions such as identifying high sales categories and customer purchasing trends.</br>
 ## Strategic Value: 
