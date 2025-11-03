@@ -24,7 +24,8 @@ Monthly Trends: 332K </br>
 Sales by Category: 836K </br>
 Avg.Delivery: 4 </br>
 Top Performing State: California </br>
-Most Popular category: Phones </br>
+Most Popular Category: Technology </br>
+Most Popular Sub-Category: Phones 
 
 # Repository Structure
 ## Data:
