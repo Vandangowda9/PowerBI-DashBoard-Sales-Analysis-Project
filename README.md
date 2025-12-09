@@ -44,4 +44,4 @@ Most Popular Sub-Category: Phones
 •	Continue monitoring sales trends in Power BI for real-time decision-making.</br>
 •	Integrate customer demographics for deeper segmentation analysis.
 
-#
+
